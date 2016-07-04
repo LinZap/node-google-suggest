@@ -49,7 +49,7 @@ npm install node-google-suggest --save
 ```js
 
 var keyword = "Netfix"
-var suggest = require('../index.js')
+var suggest = require('node-google-suggest')
 
 suggest(keyword,function(err,res){
 
