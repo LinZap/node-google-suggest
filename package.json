@@ -1,0 +1,26 @@
+{
+  "name": "node-google-suggest",
+  "version": "1.0.0",
+  "description": "google suggest -keywords tool",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/LinZap/node-google-suggest.git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Zap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/LinZap/node-google-suggest/issues"
+  },
+  "homepage": "https://gitlab.com/LinZap/node-google-suggest#README"
+}
