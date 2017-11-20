@@ -7,11 +7,13 @@ Google suggest 提供能夠查詢關鍵字的相關關鍵字，當然也可以�
 
 ### 安裝必要套件
 ```
+git clone https://github.com/LinZap/node-google-suggest.git
 cd node-google-suggest
 npm install
 ```
 
 ### 查詢關鍵字
+
 ```
 node bin\suggest.js "信用卡"
 ```
@@ -45,7 +47,7 @@ node bin\suggest.js "信用卡"
 ```
 npm install node-google-suggest --save
 ```
-### require
+### Example
 ```js
 
 var keyword = "Netfix"
